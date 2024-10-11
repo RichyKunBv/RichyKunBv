@@ -3,12 +3,10 @@
 
 public class App {
     public static void main(String[] args) throws Exception {
-
         String nombre = "Ricardo" ;
         String edad = "19";
         String lenguajes = "Java, C#";
         String herramientas = "vs code, vs";        
-
         System.out.print("My name: " + nombre + "\n" + "My age: " + edad + "\n" + "Languages: " + lenguajes + "\n" + "My tools: " + herramientas);
     }
 }
