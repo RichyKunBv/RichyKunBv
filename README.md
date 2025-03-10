@@ -8,3 +8,14 @@ Hello!!!, My name is Ricardo Escamilla student to Systems engineering, ammm i lo
 I have basic knowledge of Java and C#. I used Visual Studio Code and Visual Studio... I work on a Mac and I'm angry that they're removing Visual Studio support. My english is bad but but the best way to learn is with mistakes :)
 
 My dream is create a enterprise of videogames indie
+
+EDUCATION                                                                                                        
+2023 - Present                                                                                                                              
+Computer Systems Engineer (University of Business and Pedagogical Development)                                                                        
+2020-2023                                                                                                                                          
+UNAM High School and Area 1 (University of the Valley of Mexico)                                                                                              
+
+SKILLS                                                                          
+Problem solving                                                                  
+Teamwork                                                                        
+Creativity                                                                            
