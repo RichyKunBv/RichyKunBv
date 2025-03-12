@@ -9,13 +9,4 @@ I have basic knowledge of Java and C#. I used Visual Studio Code and Visual Stud
 
 My dream is create a enterprise of videogames indie
 
-EDUCATION                                                                                                        
-2023 - Present                                                                                                                              
-Computer Systems Engineer (University of Business and Pedagogical Development)                                                                        
-2020-2023                                                                                                                                          
-UNAM High School and Area 1 (University of the Valley of Mexico)                                                                                              
-
-SKILLS                                                                          
-Problem solving                                                                  
-Teamwork                                                                        
-Creativity                                                                            
+<img width="525" alt="Ricardo Escamilla" src="https://github.com/user-attachments/assets/e06ce509-fb47-4ef9-ad77-810a1fbf4b7b">
