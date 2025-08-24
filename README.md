@@ -27,13 +27,13 @@
     public static final class Proyectos {
 
         private void proyectoDestacado1() {
-            String nombre = "Debian_Maintenance";
-            String descripcion = "Un script simple pero poderoso para mantener 
-                tu sistema operativo Debian, Ubuntu y derivados actualizado y 
-                limpio con solo unos pocos clics. Olvídate de escribir comandos 
-                largos y complicados en la terminal.";
+            String nombre = "Mantenix-Linux-Edition";
+            String descripcion = "Un script de terminal potente y amigable diseñado
+            para simplificar el mantenimiento de tu sistema Linux. Con un menú
+            interactivo, automatiza las tareas de actualización, limpieza y optimización
+            para las familias de distribuciones más populares: Debian, Fedora y Arch.";
             String[] tecnologias = {"Bash Shell", "VS Code"};
-            String link = "[https://github.com/RichyKunBv/Debian_Maintenance]";
+            String link = "(https://github.com/RichyKunBv/Mantenix-Linux-Edition)]";
         }
 
         private void proyectoDestacado2() {
