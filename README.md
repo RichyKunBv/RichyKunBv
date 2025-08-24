@@ -33,7 +33,7 @@
             interactivo, automatiza las tareas de actualización, limpieza y optimización
             para las familias de distribuciones más populares: Debian, Fedora y Arch.";
             String[] tecnologias = {"Bash Shell", "VS Code"};
-            String link = "(https://github.com/RichyKunBv/Mantenix-Linux-Edition)]";
+            String link = "[https://github.com/RichyKunBv/Mantenix-Linux-Edition]";
         }
 
         private void proyectoDestacado2() {
