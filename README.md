@@ -17,7 +17,7 @@
         public static final String[] HERRAMIENTAS = {
             "VS Code",
             "VS 2022",
-            "Git",
+            "GitHub",
             "Arduino IDE",
             "Bloc de notas",
         };
