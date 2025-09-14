@@ -11,7 +11,7 @@
         // Lenguajes con los que construyo
         public static final String[] 
             LENGUAJES = {"Java", "C#", "Arduino", "MySQL", "Bash Shell (Linux)",
-            "Batch", "Zsh / Bash Shell (macos)"};
+            "Batch", "Bash Shell (macos)"};
 
         // Herramientas que forman parte de mi día a día
         public static final String[] HERRAMIENTAS = {
