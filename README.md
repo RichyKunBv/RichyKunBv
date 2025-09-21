@@ -66,5 +66,22 @@
     }
 
 
+## 🏆 Mis Estadisticas
 
+<table>
+  <tr>
+    <td width="35%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichyKunBv&theme=dark&hide_border=true&fire=DD472C&currStreakLabel=DD472C&ring=DD472C&sideLabels=58a6ff&dates=8b949e&sideNums=8b949e&background=0D1117&stroke=30363D" height="150">
+    </td>
+    <td width="40%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RichyKunBv&theme=github_dark" height="150">
+    </td>
+    <td width="33%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RichyKunBv&theme=github_dark" height="150">
+    </td>
+  </tr>
+</table>
+
+
+## 🏆 Mis Trofeos
 ![Trophy](https://github-profile-trophy.vercel.app/?username=RichyKunBv&theme=onedark)
