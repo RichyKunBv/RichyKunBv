@@ -1,10 +1,10 @@
 
     // ===> Información de Contacto <===
     public static final class Contacto {
-        public static final String GITHUB   = "[https://github.com/RichyKunBv]";
+        public static final String GITHUB = "[https://github.com/RichyKunBv]";
     // ===> Mi Stack Tecnológico <===
     public static final class Tecnologias {
-        // Mis sistemas operativos de cabecera
+        // Mis sistemas operativos que uso
         public static final String[] 
             SISTEMAS_OPERATIVOS = {"Debian", "Windows", "macOS"};
 
@@ -13,7 +13,7 @@
             LENGUAJES = {"Java", "C#", "Arduino", "MySQL", "Bash Shell (Linux)",
             "Batch", "Bash Shell (macos)"};
 
-        // Herramientas que forman parte de mi día a día
+        // Herramientas que se usar
         public static final String[] HERRAMIENTAS = {
             "VS Code",
             "VS 2022",
