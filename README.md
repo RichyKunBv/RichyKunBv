@@ -64,3 +64,7 @@
         public static final String TOSTADORA_GAMER = "Dell Latitude E6440 | i5-4200M | 16GB RAM | Windows | Debian";
         public static final String MAMALONA = "MacBook Air M1 | 8GB RAM | macOS";
     }
+
+
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=RichyKunBv&theme=onedark)
