@@ -6,7 +6,7 @@
     public static final class Tecnologias {
         // Mis sistemas operativos que uso
         public static final String[] 
-            SISTEMAS_OPERATIVOS = {"Debian", "Windows", "macOS"};
+            SISTEMAS_OPERATIVOS = {"Fedora", "Windows", "macOS"};
 
         // Lenguajes con los que construyo
         public static final String[] 
@@ -17,6 +17,7 @@
         public static final String[] HERRAMIENTAS = {
             "VS Code",
             "VS 2022",
+            "Apache NetBeans",
             "GitHub",
             "Arduino IDE",
             "Bloc de notas",
@@ -61,8 +62,9 @@
 
     // ===> Mis Equipos (El hardware que me impulsa) <===
     public static final class MisMaquinas {
-        public static final String TOSTADORA_GAMER = "Dell Latitude E6440 | i5-4200M | 16GB RAM | Windows | Debian";
+        public static final String TOSTADORA_GAMER = "Acer Aspire 3 | i7-1255U | 16GB RAM | Windows | Fedora";
         public static final String MAMALONA = "MacBook Air M1 | 8GB RAM | macOS";
+        public static final String MINISERVER = "Dell Latitude e6440 | i5-4200M | 16GB RAM | Windows | RHEL 10";
     }
 
 
