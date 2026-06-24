@@ -1,5 +1,6 @@
-
-  <img width="100%" height="160px" src="https://static.vecteezy.com/system/resources/previews/019/909/042/non_2x/abstract-grid-line-neon-retro-style-80s-90s-free-png.png" alt="GIF Spelling Out Maddy">
+<p align="center">
+  <img width="40%" src="name.gif" style="display:block; margin:0 auto 12px;">
+  <img width="200%" height="140px" src="https://static.vecteezy.com/system/resources/previews/019/909/042/non_2x/abstract-grid-line-neon-retro-style-80s-90s-free-png.png" style="display:block; margin:0 auto;">
 </p>
 
 ## Buenas 👋, un poco de todo sobre mi :>
