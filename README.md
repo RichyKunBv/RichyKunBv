@@ -25,6 +25,7 @@ declare -A PROYECTOS=(
 
 # ===> Notas <===
 NOTAS="Me dio flojera escribir la docu de los proyectos, la hizo una IA xd"
+SOBRE_SYNC="SYNC es un pequeño script que hice para agilizar la actualizacion de los respoitorios y ahorrar tiempo de escribir comandos :v (va a estar en la mayoria de mis repos solo que adaptado para cada uno)"
 
 # ===> Mis Equipos (Hardware) <===
 declare -A MAQUINAS=(
