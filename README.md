@@ -67,6 +67,7 @@
     public static final class MisMaquinas {
         public static final String TOSTADORA_GAMER = "Acer Aspire 3 | i7-1255U | 16GB RAM | Windows | Fedora";
         public static final String MAMALONA = "MacBook Air M1 | 8GB RAM | macOS";
+        public static final String MINI_PAPU_PRO = "MacBook Neo | 8GB RAM | macOS";
         public static final String MINISERVER = "Dell Latitude e6440 | i5-4200M | 16GB RAM | Windows | RHEL 10";
     }
 
