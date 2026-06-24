@@ -6,11 +6,11 @@
     public static final class Tecnologias {
         // Mis sistemas operativos que uso
         public static final String[] 
-            SISTEMAS_OPERATIVOS = {"Fedora", "Windows", "macOS"};
+            SISTEMAS_OPERATIVOS = {"Fedora", "macOS", "Windows"};
 
         // Lenguajes con los que construyo
         public static final String[] 
-            LENGUAJES = {"Java", "C#", "Arduino", "MySQL", "Bash Shell (Linux)",
+            LENGUAJES = {"Java", "C#", "Arduino", "MySQL/MariaBD", "Bash Shell (Linux)",
             "Batch", "Bash Shell (macos)"};
 
         // Herramientas que se usar
@@ -21,6 +21,9 @@
             "GitHub",
             "Arduino IDE",
             "Bloc de notas",
+            "Avalonia",
+            "MAUI",
+            "Rider"
         };
     }
 
