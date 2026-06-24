@@ -55,8 +55,11 @@ configurar() {
 
     echo -e "\n ¡Entorno de $nombre configurado y listo para programar!"
     echo "Nota: Al hacer tu primer 'push', te va a pedir tus credenciales 
+
     como nombre de usuario, correo y contraseña (la contraseña no es la de 
+
     tu cuenta es un Token de Acceso Personal que se genera en las 
+    
     configuraciones de GitHub)."
 }
 
