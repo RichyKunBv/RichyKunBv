@@ -42,11 +42,11 @@ declare -A MAQUINAS=(
 
 <div align="center">
   <a href="https://www.icloud.com/numbers/00dFy1La2E0iiEloqqKoZtmHg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=>>+_Desencriptando_Codenames...;>>+_Accediendo_a_iCloud_Numbers...;>>+_Clic_Para_Abrir_Documento_<<" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=>>+Clic_Para_Abrir_Documento_<<" alt="Typing SVG" />
   </a>
   <br>
   <a href="https://www.icloud.com/numbers/00dFy1La2E0iiEloqqKoZtmHg">
-    <img src="https://img.shields.io/badge/Ver_Base_de_Datos-007AFF?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Link" />
+    <img src="https://img.shields.io/badge/Ver_Codenames-007AFF?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Link" />
   </a>
 </div>
 
