@@ -14,17 +14,18 @@ GITHUB="https://github.com/RichyKunBv"
 # ===> Mi Stack Tecnológico <===
 SISTEMAS=("Fedora" "macOS" "Windows")
 LENGUAJES=("Java" "C#" "Arduino" "SQL" "Bash" "Batch")
-HERRAMIENTAS=("VS Code" "VS 2022" "NetBeans" "Git/GitHub" "Arduino IDE" "Avalonia" "MAUI" "Rider")
+HERRAMIENTAS=("VS Code" "VS 2022" "NetBeans" "Git/GitHub" "Arduino IDE" "Avalonia" "MAUI")
 
 # ===> Proyectos Destacados <===
 declare -A PROYECTOS=(
-    ["Mantenix_Linux"]="Mantenimiento interactivo para Debian/Fedora/Arch. [Bash]"
-    ["AnimeNotepad"]="Bloc de notas para Windows con temática anime. [C#/.NET 8]"
-    ["Carduino_BT"]="Vehículo autónomo con sensores y control Bluetooth. [C++/Arduino]"
+    ["Ultraudio"]="Ultraudio es un reproductor de audio Hi-Fi. [C#/ .NET 10]"
+    ["AnimeNotepad"]="Bloc de notas para Windows con temática anime. [C#/.NET 10]"
+    ["Nube-Zero"]="Tu solución personal de nube ligera, rápida y multiplataforma.. [C#/.NET 472 & 10]"
+    ["Familia_Mantenix"]="Mantenix son unos scripts de mantenimiento a sistemas como Windows, Linux y macOS"
 )
 
 # ===> Notas <===
-NOTAS="Me dio flojera escribir la docu de los proyectos, la hizo una IA xd"
+NOTAS="Me dio flojera escribir la documentacion de los proyectos, la hizo una IA xd"
 SOBRE_SYNC="SYNC es un pequeño script que hice para agilizar la
 actualizacion de los respoitorios y ahorrar tiempo de escribir comandos :v
 (va a estar en la mayoria de mis repos solo que adaptado para cada uno)"
@@ -32,9 +33,9 @@ actualizacion de los respoitorios y ahorrar tiempo de escribir comandos :v
 # ===> Mis Equipos (Hardware) <===
 declare -A MAQUINAS=(
     ["Tostadora_Gamer"]="Acer Aspire 3 | i7-1255U | 16GB | Win/Fedora"
-    ["Mamalona"]="MacBook Air M1 | 8GB | macOS"
+    ["Piedra_de_Riñon"]="MacBook Air M1 | 8GB | macOS"
     ["Mini_Papu_Pro"]="MacBook Neo | 8GB | macOS"
-    ["Miniserver"]="Dell e6440 | i5-4200M | 16GB | RHEL 10"
+    ["NanoServer"]="Raspberry Pi Zero W | un fokin nucleo (tremenda bestia) | 512MB (y le sobra ram) | Pi OS 13 (Trixie)"
 )
 ```
 
@@ -42,7 +43,7 @@ declare -A MAQUINAS=(
 
 <div align="center">
   <a href="https://www.icloud.com/numbers/00dFy1La2E0iiEloqqKoZtmHg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=>>+Clic_Para_Abrir_Documento_<<" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=33FF33&center=true&vCenter=true&width=500&lines=>>+Clic Para Abrir<<" alt="Typing SVG" />
   </a>
   <br>
   <a href="https://www.icloud.com/numbers/00dFy1La2E0iiEloqqKoZtmHg">
@@ -67,3 +68,10 @@ declare -A MAQUINAS=(
     </td>
   </tr>
 </table>
+
+
+## 📜 La Politica de Privacidad y Politica de actualizaciones de mis proyectos
+
+[![PoliticaPriv](https://img.shields.io/badge/Politica%20de%20Privacidad-lightgrey.svg)](https://github.com/RichyKunBv/RichyKunBv/blob/main/politicas/priv.md)
+
+[![PoliticaAct](https://img.shields.io/badge/Politica%20de%20Actualizaciones-lightgrey.svg)](https://github.com/RichyKunBv/RichyKunBv/blob/main/politicas/act.md)
